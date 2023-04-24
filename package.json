@@ -44,9 +44,6 @@
     "publishConfig": {
         "access": "public"
     },
-    "peerDependencies": {
-        "@capacitor/core": ">=next"
-    },
     "devDependencies": {
         "@capacitor/core": "next",
         "@capacitor/ios": "next",
